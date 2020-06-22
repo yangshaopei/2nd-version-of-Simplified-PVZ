@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>photos/bullet_slowing.jpg</file>
+        <file>photos/bullet_basic.png</file>
+        <file>photos/enemy_basic.jpg</file>
+        <file>photos/enemy_footman.jpg</file>
+        <file>photos/enemy_stronger.jpg</file>
+        <file>photos/enemy_summoner.jpg</file>
+        <file>photos/enemy_swifter.jpg</file>
+        <file>photos/tower_3dimensional.jpg</file>
+        <file>photos/tower_basic.jpg</file>
+        <file>photos/tower_double.jpg</file>
+        <file>photos/tower_slowing.jpg</file>
+        <file>photos/basin.png</file>
+        <file>photos/markof_column.png</file>
+        <file>photos/markof_row.png</file>
+    </qresource>
+</RCC>
